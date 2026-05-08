@@ -1,4 +1,4 @@
-# Vite + Vue
+# Vite + React
 
 ## 安裝
 
